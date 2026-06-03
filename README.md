@@ -8,4 +8,4 @@ Plataforma de inteligência agrometeorológica e gestão actuarial ativa desenvo
 Para rodar o painel operacional diretamente no seu RStudio sem precisar baixar os arquivos manualmente, execute o seguinte comando no console:
 
 ```R
-shiny::runGitHub('seu-usuario-aqui/nome-do-seu-repositorio')
+shiny::runGitHub('https://github.com/antonielpereira/hackathon-fip606.git') 
